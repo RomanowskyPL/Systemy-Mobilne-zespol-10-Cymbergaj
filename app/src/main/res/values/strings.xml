@@ -11,4 +11,8 @@
     <string name="Sredni">Średni</string>
     <string name="Trudny">Trudny</string>
     <string name="Powrot">Powrót</string>
+    <string name="Muzyka">Muzyka</string>
+    <string name="Dzwiek">Dzwięk</string>
+    <string name="Wibracje">Wibracje</string>
+    <string name="TrybNocny">Tryb nocny</string>
 </resources>
